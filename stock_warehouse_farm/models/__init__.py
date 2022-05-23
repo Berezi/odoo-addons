@@ -10,3 +10,4 @@ from . import stock_picking
 from . import stock_picking_batch
 from . import picking_batch_stage
 from . import stock_location
+from . import stock_quant
